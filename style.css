@@ -1,0 +1,88 @@
+body {
+    background-image: url("file:///Users/codenation/Documents/Blog/site_Background_image.jpg");
+    opacity: 2;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+a {
+    color:#bf00ff;
+}
+
+ol li {
+    color:orange;
+}
+
+ul li {
+    color:orange;
+}
+
+h1 {
+    color:white;
+    font-size:50px;
+    text-align:center;
+
+}
+
+h2, h3, h4 { 
+    color:#bf00ff;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+p {
+    color:orange;
+}
+
+button {
+    width: 50%;
+    align-content: center;
+    color:#00bfff;
+    background-color:#bf00ff;
+}
+
+.button1 {
+    width: 25%;
+}
+
+.homePageText {
+    font-size: 25px;
+}
+
+.linkColours {
+    color:yellow
+}
+
+.center {
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    float: left;
+}
+
+.leftOfHTMLCSSImage {
+    float: right;
+}
+
+
+.container {
+    display: flex;
+  }
+
+.movingLinks {
+    display:flex;  
+    background-color:yellow;
+    flex:1; 
+}
+
+.links {
+    width:25%;
+    text-align: center;
+    color:yellow;
+}
+
+.links1 {
+    width: 50%;
+    text-align: center;
+    color:yellow;
+}
