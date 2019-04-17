@@ -1,5 +1,5 @@
 body {
-    background-image: url("backgroundImage.jpg");
+    background-image: url("backgroundimage.jpg");
     opacity: 2;
     background-size: cover;
     background-repeat: no-repeat;
@@ -90,4 +90,9 @@ button {
 
 .OutsideLinks {
     color:#42eb00;
+}
+
+.screenshotimages {
+    flex-direction: row;
+
 }
