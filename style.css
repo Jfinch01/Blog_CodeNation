@@ -6,7 +6,7 @@ body {
 }
 
 a {
-    color:#bf00ff;
+    color:green;
 }
 
 ol li {
@@ -15,6 +15,7 @@ ol li {
 
 ul li {
     color:orange;
+    list-style: none;
 }
 
 h1 {
@@ -25,7 +26,7 @@ h1 {
 }
 
 h2, h3, h4 { 
-    color:#bf00ff;
+    color:#42eb00;
     font-family:Arial, Helvetica, sans-serif
 }
 
@@ -36,7 +37,7 @@ p {
 button {
     width: 50%;
     align-content: center;
-    color:#00bfff;
+    color:orange;
     background-color:#bf00ff;
 }
 
@@ -85,4 +86,8 @@ button {
     width: 50%;
     text-align: center;
     color:yellow;
+}
+
+.OutsideLinks {
+    color:#42eb00;
 }
